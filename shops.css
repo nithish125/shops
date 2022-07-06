@@ -1,0 +1,105 @@
+.ship{
+float: right;
+background-color: yellow;
+
+}
+body{
+    /* display: flex;
+    justify-content: center;  */
+    background-color: grey;
+}
+.container{
+    background-image: url("./image/bg_img2.jpg");
+    width: 543px;
+    margin: 0 auto;
+   
+
+}
+.nav{
+    
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    font-size: 10px;
+
+}
+.nav a{
+    padding: 14px 5px
+}
+.heading{
+    
+    line-height: 41px;
+    clear: both;
+}
+.heading h2{
+    font-size: 30px;
+    
+}
+.good{
+    text-align: center;
+}
+.bar{
+    height: 12px;
+    width: 243px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+.percen h2{
+    font-size: 77px;
+    font-family: fantasy;
+    TEXT-ALIGN: center;
+    font-weight: 400;
+}
+.percen h3{
+    font-size: 67px;
+    
+    TEXT-ALIGN: center;
+    font-weight: 500;
+}
+ .image2{
+    float: left;
+}
+.image1 {
+    float: right;
+} 
+.image{
+    margin: 0 23px;
+}
+.go{
+    clear: both;
+    font-size: 61px;
+    text-align: center;
+    color: aquamarine;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.footer {
+    float: right;
+    padding: 6px 0;
+}
+
+.image22{
+    width: 20px;
+    
+    padding: 0 14px 0 0;
+}
+.image22 img{
+width: 100%;
+
+}
+
+.foo{
+    clear: both;
+    border: 2px solid;
+}
+.p1{
+    margin: 0 35px;
+    font-size: 13px;
+}
+.p2{
+    text-align: center;
+}
+.para{
+    line-height: 17px;
+    margin: 14px 0;
+}
+
