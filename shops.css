@@ -51,15 +51,10 @@ body{
 .bar{
     height: 6px;
     width: 243px;
-    background-color: #00ffff75;
+    background-image: linear-gradient(#00ffff75,#1d89db8c);
     margin: 0 auto;
 }
-.bar1{
-    height: 8px;
-    width: 243px;
-    background-color: #1d89db8c;
-    margin: 0 auto;
-}
+
 .percen h2{
     font-size: 77px;
     font-family: fantasy;
@@ -106,7 +101,7 @@ width: 100%;
 
 .foo{
     clear: both;
-    border: 2px solid;
+    border: 1px solid;
 }
 .p1{
     margin: 0 35px;
